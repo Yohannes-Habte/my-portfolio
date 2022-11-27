@@ -52,7 +52,7 @@ export const portfolioDat = [
     {
         id: 6,
         image: image6,
-        title: "Stock Market",
+        title: "Quiz App",
         github: "ttps://github.com/Yohannes-Habte",
         demo: "https://yohannes-habte.github.io/test/"
     }
