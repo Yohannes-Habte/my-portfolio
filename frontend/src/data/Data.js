@@ -40,7 +40,7 @@ export const portfolioDat = [
         image: image4,
         title: "To Do App",
         github: "ttps://github.com/Yohannes-Habte",
-        demo: "https://yohannes-habte.github.io/to-do-app/"
+        demo: "https://yohannes-habte.github.io/todo-app/"
     },
     {
         id: 5,
