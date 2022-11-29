@@ -32,28 +32,28 @@ export const portfolioDat = [
         id: 3,
         image: image3,
         title: "Shopping Cart App",
-        github: "ttps://github.com/Yohannes-Habte",
+        github: "https://github.com/Yohannes-Habte",
         demo: "https://yohannes-habte.github.io/shopping-cart-app/"
     },
     {
         id: 4,
         image: image4,
         title: "To Do App",
-        github: "ttps://github.com/Yohannes-Habte",
+        github: "https://github.com/Yohannes-Habte",
         demo: "https://yohannes-habte.github.io/todo-app/"
     },
     {
         id: 5,
         image: image5,
         title: "Calculator App",
-        github: "ttps://github.com/Yohannes-Habte",
+        github: "https://github.com/Yohannes-Habte",
         demo: "https://yohannes-habte.github.io/calculator/"
     },
     {
         id: 6,
         image: image6,
         title: "Quiz App",
-        github: "ttps://github.com/Yohannes-Habte",
+        github: "https://github.com/Yohannes-Habte",
         demo: "https://yohannes-habte.github.io/test/"
     }
 ]
