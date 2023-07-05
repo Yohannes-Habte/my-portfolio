@@ -13,13 +13,13 @@ import client4 from "../images/client4.jpg";
 import client5 from "../images/client5.jpg";
 import client6 from "../images/client6.jpg";
 
-export const portfolioDat = [
+export const portfolioData = [
     {
         id: 1,
         image: image1,
         title: "LisaConsult App",
         github: "https://github.com/Yohannes-Habte",
-        demo: "https://yohannes-habte.github.io/lisaConsult-website/"
+        demo: "https://yohannes-habte.github.io/lisaConsult/"
     },
     {
         id: 2,
